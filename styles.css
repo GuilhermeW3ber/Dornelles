@@ -139,7 +139,7 @@ body{
     z-index: -2000;
     position: absolute;
     height: 80vh;
-    width: 140vw;
+    width: 100vw;
     margin-top: -270px;
     filter: brightness(70%);
 }
